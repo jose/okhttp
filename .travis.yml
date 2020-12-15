@@ -3,5 +3,7 @@ language: java
 notifications:
   email: false
 
+dist: trusty
+
 jdk:
-  - openjdk8
+  - oraclejdk8
